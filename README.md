@@ -2,7 +2,7 @@
 
 A simple windows forms application which creates POCO/model classes, Base repository and related repository classes for the database tables in order to use Dapper ORM framework (which I mostly use in my desktop and web applications) and basic stored procedures scripts (like insert, update, delete etc) for the selected database tables
 
-A simple guide on how to use this tool can be found at my blog :  http://www.techierathore.com/2016/04/simple-poco-n-sql-generator-in-c/
+A simple guide on how to use this tool can be found at my blog :  https://www.codeproject.com/Articles/1089855/Simple-POCO-N-SQL-Generator-in-Csharp
 
 # Contributing
 
